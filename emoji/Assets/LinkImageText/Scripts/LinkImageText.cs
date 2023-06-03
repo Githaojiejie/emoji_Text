@@ -8,6 +8,13 @@ using UnityEngine.EventSystems;
 using UnityEngine.UI;
 using EmojiUI;
 
+ //public static string ReplaceSpace(string inStr)
+ //   {
+ //       return inStr.Replace(" ", no_breaking_space);
+ //   }
+ //   public static readonly string no_breaking_space = "\u00A0";
+
+
 /// <summary>
 /// 文本控件，支持超链接、图片
 /// </summary>
